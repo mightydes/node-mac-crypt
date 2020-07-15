@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "name": "node-mac-crypt",
+  "description": "Simple NodeJS Crypt Package with Mac Sign",
+  "keywords": [
+    "crypt",
+    "mac",
+    "md5"
+  ],
+  "author": {
+    "name": "Lev Nazarenko",
+    "email": "lynazarenko@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:mightydes/node-mac-crypt.git"
+  },
+  "homepage": "https://github.com/mightydes/node-mac-crypt",
+  "bugs": {
+    "url": "https://github.com/mightydes/node-mac-crypt/issues"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {
+    "md5": "^2.2.1"
+  },
+  "devDependencies": {}
+}
